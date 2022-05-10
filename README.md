@@ -1,7 +1,7 @@
 # Lottery Smart Contract
 Simple smart contract project for demonstrating a lottery application using Solidity and NodeJS. Players can enter the lottery with a value greater than the minimum value and winner that is randomly picked wins all the balance.
 
-For development purposes, this projects uses** Rinkeby Ethereum Network** and **Infura**.
+For development purposes, this projects uses **Rinkeby Ethereum Network** and **Infura**.
 
 ## File Structure
 **Contracts** folder contains the main smart contract written in Solidity. You can view and edit the code for your own use cases.
